@@ -54,18 +54,7 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 - First-class passengers were more likely to survive
 - Fare had a strong correlation with survival and class
 - Data showed right skewness in age and fare
-
----
-
-## 📁 Files in this Repository
-
-| File | Description |
-|------|-------------|
-| `Titanic_EDA.ipynb` | Jupyter Notebook with code and visualizations |
-| `Titanic_EDA_Report.pdf` | PDF export of the notebook for easy viewing |
-| `train.csv` *(optional)* | Dataset used for analysis (or link to Kaggle) |
-| `README.md` | Project documentation |
-
+- 
 ---
 
 ## 🚀 How to Run
