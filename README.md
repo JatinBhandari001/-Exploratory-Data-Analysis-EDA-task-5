@@ -41,9 +41,9 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 - Correlation heatmap to identify relationships
 
 ### Data Cleaning
-- Filled missing `Age` and `Embarked` values
-- Dropped `Cabin` due to excessive missing data
-- Checked and treated skewness in `Fare` using log transformation
+- Filled missing Age and Embarked values
+- Dropped Cabin due to excessive missing data
+- Checked and treated skewness in Fare using log transformation
 
 ---
 
