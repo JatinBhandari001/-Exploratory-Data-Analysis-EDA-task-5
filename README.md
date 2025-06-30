@@ -1,11 +1,11 @@
 # -Exploratory-Data-Analysis-EDA-task-5
 
-## 📌 Objective
+## Objective
 This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset using Python. The goal is to extract meaningful insights, identify patterns, understand data distribution, and prepare the dataset for future modeling tasks.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python**
 - **Pandas** – for data manipulation
@@ -14,7 +14,7 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
 
@@ -24,30 +24,30 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 
 ---
 
-## 📊 Key Analyses Performed
+## Key Analyses Performed
 
-### ✅ Univariate Analysis
+###  Univariate Analysis
 - Age distribution using histograms
 - Survival counts
 - Fare outliers using boxplots
 
-### ✅ Bivariate Analysis
+### Bivariate Analysis
 - Gender vs Survival
 - Passenger class vs Survival
 - Scatter plot of Age vs Fare colored by survival
 
-### ✅ Multivariate Analysis
+###  Multivariate Analysis
 - Pairplot of Age, Fare, Pclass vs Survived
 - Correlation heatmap to identify relationships
 
-### ✅ Data Cleaning
+### Data Cleaning
 - Filled missing `Age` and `Embarked` values
 - Dropped `Cabin` due to excessive missing data
 - Checked and treated skewness in `Fare` using log transformation
 
 ---
 
-## 🔍 Summary of Insights
+##  Summary of Insights
 
 - Majority of passengers did not survive (~62%)
 - Females had significantly higher survival rates
@@ -57,7 +57,7 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 - 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repo
 2. Open `Titanic_EDA.ipynb` in Jupyter Notebook or VS Code
@@ -66,7 +66,7 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 
 ---
 
-## 👤 Author
+##  Author
 
 **Jatin Bhandari**  
 Aspiring Data Analyst | Passionate about insights & visualization  
