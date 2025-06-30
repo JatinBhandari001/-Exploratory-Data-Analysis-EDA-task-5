@@ -19,8 +19,8 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
 
 - 891 records
-- Key columns: `Survived`, `Pclass`, `Sex`, `Age`, `Fare`, `Embarked`, etc.
-- Some missing data in `Age`, `Embarked`, and `Cabin`
+- Key columns: Survived, Pclass, Sex, age, Fare, Embarked, etc.
+- Some missing data in Age, Embarked,and Cabin
 
 ---
 
@@ -54,13 +54,13 @@ This project aims to perform **Exploratory Data Analysis (EDA)** on the Titanic 
 - First-class passengers were more likely to survive
 - Fare had a strong correlation with survival and class
 - Data showed right skewness in age and fare
-- 
+
 ---
 
 ##  How to Run
 
 1. Clone this repo
-2. Open `Titanic_EDA.ipynb` in Jupyter Notebook or VS Code
+2. Open Exploratory data analyis.md in Jupyter Notebook or VS Code
 3. Make sure the dataset is present in the correct path
 4. Run cells sequentially to explore
 
